@@ -1,0 +1,17 @@
+﻿node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.env.local
+.env.*.local
+.vscode/
+.idea/
+*.swp
+*.swo
+build/
+coverage/
+.cache
+read_files.py
+read_pdf.py
+generate_report.py
